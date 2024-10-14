@@ -11,7 +11,7 @@ These are sample course materials for a class I taught at *Purdue University* in
 
 Some of the philosophical questions covered include:
 
-- Are the No Free Lunch Theorems an example of the No Free Lunch Theorems?
+- Are the No Free Lunch Theorems an example of the problem of induction?
 - How should we measure the intelligence of machine learning systems?
 - Do language models duplicate human moral reasoning?
 - Are machine learning algorithms compatible with a right to an explanation?
