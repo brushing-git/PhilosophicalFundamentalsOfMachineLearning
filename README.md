@@ -18,6 +18,6 @@ Some of the philosophical questions covered include:
 - How can machine learning algorithms replace labor?
 - How should we view the alignment problem through the methods of deep learning?
 
-Students have to apply their learned machine learning methods through **four homework assignments** and a **midterm**. They then engage in a seminar-style course to discuss the philosophical import of those learned methods. Students demonstrate what they learn through a group project where they apply some machine learning methods to a topic covered in the second half of the course.
+Students have to apply their learned machine learning methods through **four homework assignments** and a **midterm**. They then engage in a seminar-style course to discuss the philosophical import of those learned methods. Students demonstrate what they learn through a group project where they apply some machine learning methods to a topic covered in the second half of the course. They then present their experiments and reflections at the end of the course along with a short, **IEEE**-style paper.
 
 For more details, please see the syllabus. You can view some sample lectures and attendant Jupyter Notebooks in the SampleLectures and SampleNotebooks folders. To see the type of assignment, please look at the sample Homework assignment.
