@@ -2,7 +2,7 @@
 
 These are sample course materials for a class I taught at *Purdue University* in the Fall of 2024. The goal of the course is to give students a hands-on introduction to many contemporary machine learning methods through tools used in `python` such as `numpy, pandas, scikit-learn, and pytorch` and to then have them apply those methods to philosophical problems adjacent to machine learning such as the problem of induction. Some machine learning topics covered in the course include:
 
-- Bayesian and PAC learning justifications for machine learning algorithms.
+- Bayesian and PAC learning justifications for machine learning algorithms
 - K-Nearest Neighbors
 - Linear Regression
 - Multilayer Perceptrons
